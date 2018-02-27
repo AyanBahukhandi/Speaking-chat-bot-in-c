@@ -1,0 +1,8 @@
+This chatbot is made by me[Alex Niles].In the chatbot Download file you will find a file named data.txt,you can modify as you want to
+modify it but the santax will be like:-
+Hello(query)
+Hi(answer)
+
+
+I will not be responsible for any misuse of this chatbot on any website or server!!
+DO IT ON YOUR OWN RISK!!!
